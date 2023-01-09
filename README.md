@@ -1,3 +1,3 @@
 # WebServer + RestServer
 
-Recuerden que deben de ejecutar ```npm install``` para reconstruir los módulos de Node.
+Para levantar el local de este proyecto son necesarios los modulos de node junto con express, dotenv y cors.

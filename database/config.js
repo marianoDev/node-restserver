@@ -1,6 +1,7 @@
 // CONFIGURACION PARA CONECTARSE A LA DB VIA MONGOOSE USANDO DOTENV
 
 const mongoose = require('mongoose');
+mongoose.set('strictQuery',false);
 
 const dbConection = async() => {
 
